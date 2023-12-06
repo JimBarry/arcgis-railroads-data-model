@@ -8,7 +8,7 @@ Data Dictionary:
 *ArcGIS Railroad Data Model Data Dictionary_v04.pdf*
 
 Sample ArcGIS Pro project package with sample File Geodatabase shell:
-*arcgis-railroads-data-model-sample-v04.ppkx*
+*arcgis-railroads-data-model-sample-v091.ppkx*
 
 
 
